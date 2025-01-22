@@ -1,5 +1,6 @@
 ## 🚀 Main Projects
-[![AkatQuest](https://img.shields.io/badge/AkatQuest-Minecraft%20Plugin-00B16A?style=flat&logo=java)](https://github.com/AkatSireev/AkatQuest)
+[![AkatQuest](https://img.shields.io/badge/AkatQuest-Spigot%20Plugin-00B16A?style=flat&logo=java)](https://github.com/AkatSireev/AkatQuest)
+[![ArenaAPI](https://img.shields.io/badge/ArenaAPI-Spigot%20Plugin-00B16A?style=flat&logo=java)](https://github.com/AkatSireev/ArenaAPI)
 
 ## 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-@AkatSireev-0088cc?style=flat&logo=telegram)](https://t.me/AkatSireev)
